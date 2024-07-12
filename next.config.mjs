@@ -6,6 +6,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'platform-lookaside.fbsbx.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'scontent.fvix18-1.fna.fbcdn.net'
       }
     ]
   }
